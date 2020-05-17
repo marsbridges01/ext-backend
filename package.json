@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/marsbridges01/ext-backend/issues"
   },
-  "homepage": "https://github.com/marsbridges01/ext-backend#readme"
+  "homepage": "https://github.com/marsbridges01/ext-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shelljs": "^0.8.4"
+  }
 }
