@@ -15,6 +15,6 @@ app.post('/hyou', (req, res) => {
   }
 });
 
-server.listen(1996, () => {
+server.listen(3000, () => {
   console.log('http server listening on port 1996');
 });
